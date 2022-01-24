@@ -98,15 +98,28 @@ Here :
 
 ## Setup your database
 
+- Go to File Laragon/YourFile/.env
+- Set up your .env
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=zhafirahcatering
+- DB_USERNAME=root
+- DB_PASSWORD={{Yourpassword}} or / 
+- Save..
+
+
 after you already download you can download Visual Studio Code 
 and use
 Follow this path..
 
-- ** -Composer install
+-  -Composer install
+-  -php artisan migrate
+-  -php artisan serve
 
 ## That its you can use this application if you want more information.
 
-## Email at : reyhandwiambrta@gmail.com
+- Email at : reyhandwiambrta@gmail.com
 
 ## Thanks Everyone !!
 
