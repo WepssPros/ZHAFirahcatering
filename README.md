@@ -95,6 +95,9 @@ Here :
 ## Download your Laragon
 - **[Laragon](https://laragon.org/)**
 
+## Download your Visual Studio Code
+- **[Visual Studio Code](https://code.visualstudio.com/)**
+
 
 ## Setup your database
 
@@ -109,10 +112,11 @@ Here :
 - Save..
 
 
-after you already download you can download Visual Studio Code 
-and use
-Follow this path..
+after you already download you caan Follow this path..
 
+- Open your File
+- CTRL + ~ 
+- get your CMD or Git
 -  -Composer install
 -  -php artisan migrate
 -  -php artisan serve
@@ -120,6 +124,8 @@ Follow this path..
 ## That its you can use this application if you want more information.
 
 - Email at : reyhandwiambrta@gmail.com
+- Git at : https://github.com/WepssPros
+- Instagram at : https://www.instagram.com/ehanhehehe/
 
 ## Thanks Everyone !!
 
