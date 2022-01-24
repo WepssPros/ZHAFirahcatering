@@ -87,32 +87,31 @@ How to use is Simply for learning this code..
 
 First 
 
-##download your composer 
+## Download your composer 
 Here :
 - **[Composer](https://getcomposer.org/download/)**
 
 
-download your Laragon
+## Download your Laragon
 - **[Laragon](https://laragon.org/)**
 
 
-##setup your database
+## Setup your database
 
 after you already download you can download Visual Studio Code 
 and use
 Follow this path..
 
--[Composer Install]
--[setting your .env]
--[php artisan migration]
--[php artisan serve]
+## -[Composer Install]
+## -[setting your .env]
+## -[php artisan migration]
+## -[php artisan serve]
 
-that its you can use this application
-if you want more information.
+## That its you can use this application if you want more information.
 
-Email at : reyhandwiambrta@gmail.com
+## Email at : reyhandwiambrta@gmail.com
 
-thanks Everyone !!
+## Thanks Everyone !!
 
 
 
