@@ -102,10 +102,7 @@ after you already download you can download Visual Studio Code
 and use
 Follow this path..
 
-## -[Composer Install]
-## -[setting your .env]
-## -[php artisan migration]
-## -[php artisan serve]
+- ** -Composer install
 
 ## That its you can use this application if you want more information.
 
