@@ -74,7 +74,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 </p>
 
 
-##About me
+## About me
 Hay Guys 
 My name Is Reyhan Dwi Amberta
 
@@ -85,7 +85,7 @@ Its about learning to your path..
 
 How to use is Simply for learning this code..
 
-First 
+## First 
 
 ## Download your composer 
 Here :
